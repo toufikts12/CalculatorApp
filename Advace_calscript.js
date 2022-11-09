@@ -3,7 +3,7 @@ let abc=true;
     function input()
     {
         if(abc==false){
-        document.getElementById("display").value="";
+        document.getElementById("display").value=""
         abc=true;
         }
 
